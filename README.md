@@ -12,7 +12,7 @@
  
 ## 🌱 I'm currently learning
  
-- Docker & containerization
+- Docker, containerization & RabbitMQ
 - Automated testing with **pytest**
 - Deepening my SQLAlchemy & async patterns knowledge
 - English — fluent and still going 🇺🇸
@@ -31,19 +31,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
  
----
- 
-## 👯 I'm looking to collaborate on
- 
-Open-source Python/FastAPI projects — APIs, backend services, or anything that challenges clean architecture thinking.
- 
----
- 
-## 💡 About me
- 
-- 🏗️ I care a lot about **architecture**: layered design, separation of concerns, and code that scales.
-- 🏋️ Outside of code, I train with weights 5x a week and track macros with the same discipline I put into studying.
-- 🎮 Fascinated by **gamification and progression systems** — currently channeling that into a personal dev app project.
 ---
  
 ## 📫 How to reach me
