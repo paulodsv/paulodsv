@@ -1,4 +1,4 @@
-# Hi there, I'm Paulo 👋
+# I'm Paulo 👋
  
 🎓 Final-semester **Software Engineering** student with ~1 year of focused backend development experience, currently working as **IT Coordinator** while building my path into a remote backend role.
  
