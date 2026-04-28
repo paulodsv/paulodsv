@@ -15,7 +15,7 @@
 - Docker, containerization & RabbitMQ
 - Automated testing with **pytest**
 - Deepening my SQLAlchemy & async patterns knowledge
-- English — fluent and still going 🇺🇸
+- English — fluent and still improving
 ---
  
 ## 🛠️ Tech Stack
