@@ -1,12 +1,6 @@
 # I'm Paulo 👋
  
-🎓 Final-semester **Software Engineering** student with ~1 year of focused backend development experience, currently working as **IT Coordinator** while building my path into a remote backend role.
- 
----
- 
-## 🔭 I'm currently working on
- 
-- **[vehicle-infraction-api](https://github.com/paulodsv/vehicle-infraction-api)** — A vehicle infraction consultation system integrating the Senatran API, built with Python/FastAPI, SQLAlchemy, Alembic, Pydantic v2, and layered architecture (repositories, services, DTOs).
+🎓 Final-semester **Software Engineering** student with ~1.5 year of focused backend development experience, currently working as **IT Coordinator** while building my path into a remote backend role.
   
 ---
  
@@ -15,7 +9,7 @@
 - Docker, containerization & RabbitMQ
 - Automated testing with **pytest**
 - Deepening my SQLAlchemy & async patterns knowledge
-- English — fluent and still improving
+
 ---
  
 ## 🛠️ Tech Stack
